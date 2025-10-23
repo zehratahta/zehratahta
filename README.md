@@ -1,4 +1,4 @@
-## 👋 Merhaba, ben Zehra!
+## 👋 Merhabalar, ben Zehra!
 
 Burası zamanla veri odaklı, yapay zekâ temelli ve full stack geliştirme projeleriyle büyüyecek.  
 Kendimi geliştirmek, yeni şeyler denemek ve öğrendiklerimi paylaşmak amacıyla oluşturduğum bu alanda  
